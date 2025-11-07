@@ -36,3 +36,6 @@ Sometimes this manual process could take days.
 ### 1- Manage Time
 ### ERD Model
 <img width="1366" height="751" alt="VTS-Entities" src="https://github.com/user-attachments/assets/1c41b1a8-4d68-4b1a-b314-dc5c5bdc692b" />
+### Entities Relations Model
+<img width="1071" height="531" alt="task1-ERD-Entities Relations drawio" src="https://github.com/user-attachments/assets/886acb01-ca78-45bf-bbf7-906bb0ef107f" />
+
