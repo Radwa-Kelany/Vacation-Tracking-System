@@ -32,6 +32,6 @@ Sometimes this manual process could take days.
 2. Manager: approves employee's request or rejects. Award time to subordinates.
 3. HR ClerK: views employees time, entering or updating employee vacation data in the system. override leave records, manage locations
 4. System Admin: back up system logs.
-## use Cases
-## 1- Manage Time
-## ERD Model
+## Use Cases
+### 1- Manage Time
+### ERD Model
