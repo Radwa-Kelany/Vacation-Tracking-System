@@ -41,6 +41,7 @@ Sometimes this manual process could take days.
 ## Use Cases
 ### 1- Manage Time
 ### 1-1 FlowCharts
-<img width="721" height="801" alt="task1-ERD-FlowChart drawio" src="https://github.com/user-attachments/assets/f8c55d60-dc84-4de4-96ed-a3eee8af4d21" />
+<img width="721" height="801" alt="task1-ERD-FlowChart drawio" src="https://github.com/user-attachments/assets/035c1ae9-6ef3-4df6-9f4b-a2424cf4ff50" />
+
 
 
