@@ -36,7 +36,8 @@ Sometimes this manual process could take days.
 <img width="1366" height="751" alt="VTS-Entities" src="https://github.com/user-attachments/assets/1c41b1a8-4d68-4b1a-b314-dc5c5bdc692b" />
 
 ### Entities Relations Model
-<img width="1071" height="531" alt="task1-ERD-Entities Relations drawio" src="https://github.com/user-attachments/assets/886acb01-ca78-45bf-bbf7-906bb0ef107f" />
+<img width="1071" height="531" alt="task1-ERD-Entities Relations drawio" src="https://github.com/user-attachments/assets/3e69ccc6-8a89-4004-8c4b-1ff00f345626" />
+
 
 ## Use Cases
 ### 1- Manage Time
@@ -48,6 +49,14 @@ Sometimes this manual process could take days.
 
 <img width="1091" height="901" alt="task1-ERD-sequence-diagram2 drawio" src="https://github.com/user-attachments/assets/76388965-ca12-44c8-9e72-35c48ca078c2" />
 
+
+
+## UI of Requests
+### Employee Page
+<img width="1893" height="504" alt="employee-requests" src="https://github.com/user-attachments/assets/9f2c463b-5e20-47e4-a11f-a8bc7ef7c153" />
+
+### Manager Page
+<img width="1894" height="678" alt="manager-requests" src="https://github.com/user-attachments/assets/ef8a0ba3-9bc3-45f3-aa28-18861b6cd5e0" />
 
 
 
