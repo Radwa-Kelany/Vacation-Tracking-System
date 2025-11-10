@@ -67,7 +67,8 @@ Sometimes this manual process could take days.
 
 ## State Machine Diagram of Vacation Request
 
-<img width="1041" height="481" alt="VTS-state machine diagram" src="https://github.com/user-attachments/assets/9936b144-650e-491e-82ee-5137bccdd5cd" />
+
+<img width="1041" height="501" alt="VTS-state machine diagram2" src="https://github.com/user-attachments/assets/570b873d-32b1-44ed-af5c-f7b6067a169e" />
 
 
 
