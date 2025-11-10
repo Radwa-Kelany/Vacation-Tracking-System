@@ -65,7 +65,9 @@ Sometimes this manual process could take days.
 ### Manager Page
 <img width="1894" height="678" alt="manager-requests" src="https://github.com/user-attachments/assets/ef8a0ba3-9bc3-45f3-aa28-18861b6cd5e0" />
 
+## State Machine Diagram of Vacation Request
 
+<img width="1041" height="481" alt="VTS-state machine diagram" src="https://github.com/user-attachments/assets/9936b144-650e-491e-82ee-5137bccdd5cd" />
 
 
 
