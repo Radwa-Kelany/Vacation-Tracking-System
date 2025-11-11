@@ -50,7 +50,8 @@ Sometimes this manual process could take days.
 
 
 ### 1-2 Approve/Reject Request
-<img width="1611" height="871" alt="VTS-approve request" src="https://github.com/user-attachments/assets/f026a0cd-9356-45c6-838f-d457fd3f8f1c" />
+<img width="1611" height="871" alt="VTS-approve request" src="https://github.com/user-attachments/assets/e5a3d9b1-ed2c-44c1-b5c1-1914690eadd2" />
+
 
 
 
