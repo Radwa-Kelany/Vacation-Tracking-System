@@ -42,21 +42,26 @@ Sometimes this manual process could take days.
 ## Use Cases
 ### 1- Manage Time
 ### 1-1 Submit Request
-<img width="1961" height="771" alt="VTS-submit request" src="https://github.com/user-attachments/assets/7f73e407-fdb9-4e6d-9734-a93599976ed6" />
+<img width="1961" height="801" alt="VTS-submit request" src="https://github.com/user-attachments/assets/4653af67-0cfe-4dd1-94cc-71cef5cc2843" />
+
 
 
 ### 1-2 Approve/Reject Request
-<img width="1412" height="872" alt="VTS-approve request" src="https://github.com/user-attachments/assets/40662951-f53d-4ed3-8673-8fe343e70288" />
+<img width="1411" height="871" alt="VTS-approve request" src="https://github.com/user-attachments/assets/cc279d51-5498-4132-8881-6aceb73f683c" />
+
 
 
 ### 1-3 Cancel Approved Request
-<img width="1412" height="872" alt="VTS-approve request" src="https://github.com/user-attachments/assets/089a17e2-70db-4159-8de1-8e3e0f0e23da" />
+<img width="1846" height="911" alt="VTS-cancel request" src="https://github.com/user-attachments/assets/0a36500a-1e57-4c3a-8f14-ab059329b84a" />
+
 
 ### 1-4 Withdraw Pending Request
-<img width="1826" height="792" alt="VTS-withdraw request" src="https://github.com/user-attachments/assets/3ea36bb2-0564-4fda-a11e-4c52c95c37b1" />
+<img width="1826" height="791" alt="VTS-withdraw request" src="https://github.com/user-attachments/assets/ea5f8f14-4bce-4f76-8b84-5f707d80df10" />
+
 
 ### 1-5 Edit Pending Request
-<img width="1941" height="1101" alt="VTS-edit request" src="https://github.com/user-attachments/assets/6e1f3817-aeca-4403-b260-19ccd4a23c29" />
+<img width="1941" height="1101" alt="VTS-edit request" src="https://github.com/user-attachments/assets/fd96399f-0b75-44a9-b265-484258e077db" />
+
 
 ## UI of Requests
 ### Employee Page
