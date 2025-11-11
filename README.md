@@ -37,7 +37,8 @@ Sometimes this manual process could take days.
 
 ### Entities Relations Model
 
-<img width="1091" height="531" alt="VTS-Entities Relations" src="https://github.com/user-attachments/assets/2d27943b-e6c5-4b3f-b827-924394866c6f" />
+<img width="1071" height="531" alt="VTS-Entities Relations" src="https://github.com/user-attachments/assets/7a416171-fc07-4139-8aab-f7f159b2b506" />
+
 
 ## Use Cases
 ### 1- Manage Time
