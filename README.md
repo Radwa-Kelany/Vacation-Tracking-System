@@ -36,8 +36,8 @@ Sometimes this manual process could take days.
 <img width="1366" height="751" alt="VTS-Entities" src="https://github.com/user-attachments/assets/1c41b1a8-4d68-4b1a-b314-dc5c5bdc692b" />
 
 ### Entities Relations Model
-<img width="1071" height="531" alt="task1-ERD-Entities Relations drawio" src="https://github.com/user-attachments/assets/3e69ccc6-8a89-4004-8c4b-1ff00f345626" />
 
+<img width="1091" height="531" alt="VTS-Entities Relations" src="https://github.com/user-attachments/assets/2d27943b-e6c5-4b3f-b827-924394866c6f" />
 
 ## Use Cases
 ### 1- Manage Time
